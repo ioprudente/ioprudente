@@ -15,5 +15,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ioprudente&icon=0&color=0)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/ioprudente/ioprudente/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
