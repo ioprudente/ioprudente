@@ -1,6 +1,6 @@
-- 💻 Desenvolvedora Back end 
-- 🤖 Entusiasta de IA
-- 🔭 Graduanda em Matemática
+- 💻 Desenvolvedora Backend Python
+- 🤖 Analista de IA Jr
+- 🔭 Graduanda em Matemática - Bacharelado
   
 
 ## 🌐 Social:
