@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Oii, eu sou a Isabella!
 
 
-- 💻 Desenvolvedora Backend Python
-- 🤖 Analista de IA Jr
+- 💻 Desenvolvedora de Software Jr
+- 🤖 IA | DADOS | PYTHON
 - 🔭 Graduanda em Matemática - Bacharelado
 
 
