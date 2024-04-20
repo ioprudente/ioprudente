@@ -3,7 +3,7 @@
 
 - 💻 Desenvolvedora de Software Jr
 - 🔭 Graduanda em Matemática - Bacharelado | (UNESA)
-- 🤖 IA| Python 🐍| Dados 🎲
+- IA 🤖 | Python 🐍| Dados 🎲
 
 
 
