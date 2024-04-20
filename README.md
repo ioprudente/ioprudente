@@ -2,8 +2,9 @@
 
 
 - 💻 Desenvolvedora de Software Jr
-- 🤖 IA | DADOS | PYTHON
-- 🔭 Graduanda em Matemática - Bacharelado
+- 🔭 Graduanda em Matemática - Bacharelado | (UNESA)
+- 🤖 IA| Python 🐍| Dados 🎲
+
 
 
 ## 🌐 Social:
