@@ -1,10 +1,8 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Oii, eu sou a Isabella!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Oii, eu sou a Isabella Prudente!
 
 
-- 💻 Desenvolvedora de Software Jr
-- 🔭 Graduanda em Matemática - Bacharelado | (UNESA)
-- IA 🤖 | Python 🐍| Dados 🎲
-
+- 💻 Desenvolvedora de Software
+- 🔭 Graduanda em Matemática - Bacharelado
 
 
 ## 🌐 Social:
