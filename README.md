@@ -1,6 +1,9 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Oii, eu sou a Isabella O. Prudente!
+<div align="center">
+<img src="https://github.com/ioprudente/ioprudente/blob/main/source.gif" width="100px" height="100px">
 
--  💻 Desenvolvedora de Software, Cientista de Dados, Graduanda em Matemática.
+<h1>Oii, eu sou a Isabella O. Prudente!
+  <h4>Desenvolvedora de Software, Cientista de Dados, Graduanda em Matemática.</<h4></h4>
 
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioprudente&theme=tokyonight&count_private=true&layout=compact" alt="Top Langs">
+</div>
